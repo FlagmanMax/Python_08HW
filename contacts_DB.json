@@ -1,0 +1,92 @@
+[
+  {
+    "ID": 1,
+    "Name": "Вероника",
+    "Surname": "Воробьева",
+    "Phone number": "89200000000",
+    "Position": "Главный бухгалтер",
+    "Salary": "150000",
+    "Comment": "офис"
+  },
+  {
+    "ID": 2,
+    "Name": "Иван",
+    "Surname": "Карпов",
+    "Phone number": "89200000000",
+    "Position": "Начальник отдела",
+    "Salary": "150000",
+    "Comment": "офис"
+  },
+  {
+    "ID": 3,
+    "Name": "Ксения",
+    "Surname": "Куликова",
+    "Phone number": "89200000000",
+    "Position": "Начальник отдела",
+    "Salary": "150000",
+    "Comment": "офис"
+  },
+  {
+    "ID": 4,
+    "Name": "Тихон",
+    "Surname": "Аксено",
+    "Phone number": "89200000000",
+    "Position": "Начальник отдела",
+    "Salary": "150000",
+    "Comment": "офис"
+  },
+  {
+    "ID": 5,
+    "Name": "Дмитрий",
+    "Surname": "Малышев",
+    "Phone number": "89200000000",
+    "Position": "Юрист",
+    "Salary": "130000",
+    "Comment": "офис"
+  },
+  {
+    "ID": 6,
+    "Name": "Софья",
+    "Surname": "Белова",
+    "Phone number": "89200000000",
+    "Position": "Сотрудник",
+    "Salary": "90000",
+    "Comment": "офис"
+  },
+  {
+    "ID": 7,
+    "Name": "Денис",
+    "Surname": "Артамонов",
+    "Phone number": "89200000000",
+    "Position": "Сотрудник",
+    "Salary": "80000",
+    "Comment": "офис"
+  },
+  {
+    "ID": 8,
+    "Name": "Михаил",
+    "Surname": "Овчинников",
+    "Phone number": "89200000000",
+    "Position": "Сотрудник",
+    "Salary": "80000",
+    "Comment": "офис"
+  },
+  {
+    "ID": 9,
+    "Name": "Диана",
+    "Surname": "Павлова",
+    "Phone number": "89200000000",
+    "Position": "Сотрудник",
+    "Salary": "80000",
+    "Comment": "офис"
+  },
+  {
+    "ID": 10,
+    "Name": "Екатерина",
+    "Surname": "Орлова",
+    "Phone number": "89200000000",
+    "Position": "Сотрудник",
+    "Salary": "70000",
+    "Comment": "офис"
+  }
+]
